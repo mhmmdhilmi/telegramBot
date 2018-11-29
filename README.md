@@ -27,7 +27,7 @@ Token and chat id (group chat) needed
 * See documentation [BotFather command](https://core.telegram.org/bots#6-botfather)
 * get chat id target and your bot token
 
-### Install and Run
+#### Install and Run
 ```
 $ git clone https://github.com/mhmmdhilmi/telegramBot
 $ cd telegramBot
